@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gym_exercises/static/css/main.20acbc28.css",
-    "main.js": "/gym_exercises/static/js/main.c9c84ff7.js",
-    "static/media/banner.png": "/gym_exercises/static/media/banner.5209b5e92a864ca0c615.png",
-    "static/media/gym.png": "/gym_exercises/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/gym_exercises/index.html",
-    "main.20acbc28.css.map": "/gym_exercises/static/css/main.20acbc28.css.map",
-    "main.c9c84ff7.js.map": "/gym_exercises/static/js/main.c9c84ff7.js.map"
+    "main.css": "/static/css/main.20acbc28.css",
+    "main.js": "/static/js/main.dda0fa21.js",
+    "static/media/banner.png": "/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.20acbc28.css.map": "/static/css/main.20acbc28.css.map",
+    "main.dda0fa21.js.map": "/static/js/main.dda0fa21.js.map"
   },
   "entrypoints": [
     "static/css/main.20acbc28.css",
-    "static/js/main.c9c84ff7.js"
+    "static/js/main.dda0fa21.js"
   ]
 }
